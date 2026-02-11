@@ -1,3 +1,3 @@
 # Skills
 Ben's AI skills set.
-Grow myself by using AI.
+improve myself by using AI.
