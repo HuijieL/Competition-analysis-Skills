@@ -1,3 +1,2 @@
 # Skills
-Ben's AI skills set.
-improve myself by using AI.
+Ben's 竞品分析 skills
